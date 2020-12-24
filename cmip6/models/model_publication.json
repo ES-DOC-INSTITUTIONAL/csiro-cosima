@@ -1,0 +1,30 @@
+{
+    "access-om2": {
+        "toplevel": {
+            "publish": "off"
+        }, 
+        "ocean": {
+            "publish": "off"
+        }, 
+        "ocnbgchem": {
+            "publish": "off"
+        }, 
+        "seaice": {
+            "publish": "off"
+        }
+    }, 
+    "access-om2-025": {
+        "toplevel": {
+            "publish": "off"
+        }, 
+        "ocean": {
+            "publish": "off"
+        }, 
+        "ocnbgchem": {
+            "publish": "off"
+        }, 
+        "seaice": {
+            "publish": "off"
+        }
+    }
+}
